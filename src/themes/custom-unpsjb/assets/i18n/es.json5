@@ -1,0 +1,19 @@
+{
+  // DSpace default: "All of DSpace"
+  "menu.section.browse_global": "Todo DSpace",
+
+  // DSpace default: "DSpace Angular :: "
+  "repository.title.prefix": "Repositorio de la Univeridad Nacional de la Patagonia San Juan Bosco",
+
+	// "repository.title.prefixDSpace": "DSpace Angular ::",
+	"repository.title.prefixDSpace": "Repositorio de la Univeridad Nacional de la Patagonia San Juan Bosco",
+
+	// "browse.comcol.by.title": "By Title",
+	"browse.comcol.by.title": "Por título",
+  
+  // "menu.section.browse_community_by_title": "By Title",
+	"menu.section.browse_community_by_title": "Por título",
+	
+  // "menu.section.browse_global_by_title": "By Title",
+	"menu.section.browse_global_by_title": "Por título",
+}
