@@ -3,10 +3,10 @@
   "menu.section.browse_global": "Todo DSpace",
 
   // DSpace default: "DSpace Angular :: "
-  "repository.title.prefix": "Repositorio de la Univeridad Nacional de la Patagonia San Juan Bosco",
+  "repository.title.prefix": "Repositorio de la Universidad Nacional de la Patagonia San Juan Bosco",
 
 	// "repository.title.prefixDSpace": "DSpace Angular ::",
-	"repository.title.prefixDSpace": "Repositorio de la Univeridad Nacional de la Patagonia San Juan Bosco",
+	"repository.title.prefixDSpace": "Repositorio de la Universidad Nacional de la Patagonia San Juan Bosco",
 
 	// "browse.comcol.by.title": "By Title",
 	"browse.comcol.by.title": "Por título",
