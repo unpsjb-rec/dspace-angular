@@ -1,0 +1,19 @@
+{
+    "name": "Repositorio de la Universidad Nacional de la Patagonia San Juan Bosco",
+    "short_name": "RDI-UNPSJB",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#091119",
+    "background_color": "#091119",
+    "display": "standalone"
+}

@@ -1872,7 +1872,7 @@
 	"forgot-email.form.header": "Has olvidado tu contraseña",
 
 	// "forgot-email.form.info": "Enter Register an account to subscribe to collections for email updates, and submit new items to DSpace.",
-	"forgot-email.form.info": "Ingrese Registre una cuenta para suscribirse a colecciones para recibir actualizaciones por correo electrónico y envíe nuevos artículos a DSpace.",
+	"forgot-email.form.info": "Ingrese una cuenta para suscribirse a colecciones para recibir actualizaciones por correo electrónico y envíe nuevos artículos a DSpace.",
 
 	// "forgot-email.form.email": "Email Address *",
 	"forgot-email.form.email": "Dirección de correo electrónico *",
@@ -1925,7 +1925,7 @@
 	"forgot-password.form.label.password": "Contraseña",
 
 	// "forgot-password.form.label.passwordrepeat": "Retype to confirm",
-	"forgot-password.form.label.passwordrepeat": "Rescriba para confirmar",
+	"forgot-password.form.label.passwordrepeat": "Reescriba para confirmar",
 
 	// "forgot-password.form.error.empty-password": "Please enter a password in the box below.",
 	"forgot-password.form.error.empty-password": "Ingrese una contraseña en el cuadro a continuación.",
@@ -3799,7 +3799,7 @@
 	"profile.security.form.label.password": "Contraseña",
 
 	// "profile.security.form.label.passwordrepeat": "Retype to confirm",
-	"profile.security.form.label.passwordrepeat": "Rescriba para confirmar",
+	"profile.security.form.label.passwordrepeat": "Reescriba para confirmar",
 
 	// "profile.security.form.notifications.success.content": "Your changes to the password were saved.",
 	"profile.security.form.notifications.success.content": "Se guardaron sus cambios a la contraseña.",
@@ -3937,7 +3937,7 @@
 	"register-page.create-profile.security.label.password": "Contraseña *",
 
 	// "register-page.create-profile.security.label.passwordrepeat": "Retype to confirm *",
-	"register-page.create-profile.security.label.passwordrepeat": "Rescriba para confirmar *",
+	"register-page.create-profile.security.label.passwordrepeat": "Reescriba para confirmar *",
 
 	// "register-page.create-profile.security.error.empty-password": "Please enter a password in the box below.",
 	"register-page.create-profile.security.error.empty-password": "Ingrese una contraseña en el cuadro a continuación.",
