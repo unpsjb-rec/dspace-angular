@@ -1,19 +1,192 @@
 {
-  // DSpace default: "All of DSpace"
+  "500.help": "El servidor no puede atender temporalmente su solicitud debido a problemas de mantenimiento o de capacidad. Por favor, inténtelo de nuevo más tarde.",
+    
+  "500.link.home-page": "Volver a la página de inicio",
+    
+  "500.page-internal-server-error": "Servicio no disponible",
+
+  "home.description": "",
+
+	"home.breadcrumbs": "Inicio",
+
+	"home.title": "Inicio",
+
+	"home.search-form.placeholder": "Buscar en el repositorio ...",
+
+	"home.top-level-communities.head": "Comunidades en DSpace",
+
+	"home.top-level-communities.help": "Seleccione una comunidad para explorar sus colecciones.",
+
   "menu.section.browse_global": "Todo DSpace",
 
-  // DSpace default: "DSpace Angular :: "
-  "repository.title.prefix": "Repositorio de la Universidad Nacional de la Patagonia San Juan Bosco",
+  "repository.title.prefix": "RDI UNPSJB - ",
 
-	// "repository.title.prefixDSpace": "DSpace Angular ::",
-	"repository.title.prefixDSpace": "Repositorio de la Universidad Nacional de la Patagonia San Juan Bosco",
+	"repository.title.prefixDSpace": "RDI UNPSJB - ",
 
-	// "browse.comcol.by.title": "By Title",
 	"browse.comcol.by.title": "Por título",
-  
-  // "menu.section.browse_community_by_title": "By Title",
+
+	"admin.registries.schema.form.element": "Ítem",  
+
 	"menu.section.browse_community_by_title": "Por título",
 	
-  // "menu.section.browse_global_by_title": "By Title",
 	"menu.section.browse_global_by_title": "Por título",
+
+  "forgot-password.form.label.passwordrepeat": "Reescriba para confirmar",
+  
+  "register-page.create-profile.security.label.passwordrepeat": "Reescriba para confirmar *",
+  
+  "profile.security.form.label.passwordrepeat": "Reescriba para confirmar",
+
+  "register-page.registration.info": "Registre una cuenta para suscribirse a colecciones para recibir actualizaciones por correo electrónico y envíe nuevos artículos a DSpace.",
+
+  "collection.form.entityType": "Tipo de entidad",
+
+  //
+  // "admin.access-control.epeople.actions.delete": "Delete EPerson",
+	"admin.access-control.epeople.actions.delete": "Eliminar persona",
+
+	// "admin.access-control.epeople.actions.impersonate": "Impersonate EPerson",
+	"admin.access-control.epeople.actions.impersonate": "Hacerse pasar por persona",
+
+	// "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
+	"admin.access-control.epeople.actions.stop-impersonating": "Deja de hacerse pasar por persona",
+
+	// "admin.access-control.epeople.breadcrumbs": "EPeople",
+	"admin.access-control.epeople.breadcrumbs": "Personas",
+
+	// "admin.access-control.epeople.title": "EPeople",
+	"admin.access-control.epeople.title": "Personas",
+
+	// "admin.access-control.epeople.head": "EPeople",
+	"admin.access-control.epeople.head": "Personas",
+
+	// "admin.access-control.epeople.no-items": "No EPeople to show.",
+	"admin.access-control.epeople.no-items": "No hay personas para mostrar.",
+
+	// "admin.access-control.epeople.form.create": "Create EPerson",
+	"admin.access-control.epeople.form.create": "Crear una persona",
+
+	// "admin.access-control.epeople.form.edit": "Edit EPerson",
+	"admin.access-control.epeople.form.edit": "Editar persona",
+
+	// "admin.access-control.groups.form.members-list.head": "EPeople",
+	"admin.access-control.groups.form.members-list.head": "Personas",
+
+	// "admin.access-control.groups.form.members-list.search.head": "Add EPeople",
+	"admin.access-control.groups.form.members-list.search.head": "Agregar persona",
+
+  	// "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
+	"admin.access-control.epeople.form.memberOfNoGroups": "Esta persona no es miembro de ningún grupo",
+
+  "search.filters.applied.f.itemtype": "Tipo de documento",
+
+  "search.filters.applied.f.lugarDesarrollo": "Lugar de desarrollo",
+
+  "search.filters.applied.f.keyword": "Materia",
+
+  "search.filters.filter.dateIssued.head": "Fecha de publicación",
+
+  "search.filters.filter.keyword.head": "Materias",
+
+  "search.filters.filter.keyword.label": "Buscar materia",
+
+  "search.filters.filter.keyword.placeholder": "Materia",
+
+  "search.form.scope.all": "Todo el repositorio",
+
+  "search.filters.filter.itemtype.head": "Tipo de documento",
+
+  "search.filters.filter.itemtype.placeholder": "Tipo de documento",
+    
+  "search.filters.filter.lugarDesarrollo.head": "Lugar de desarrollo",
+  
+  "search.filters.filter.lugarDesarrollo.label": "Buscar por lugar de desarrollo",
+
+  "search.filters.filter.lugarDesarrollo.placeholder": "Lugar de desarrollo",
+
+  "search.filters.namedresourcetype.Archived": "Publicado",
+
+  "search.filters.namedresourcetype.Validation": "En revisión",
+
+  "search.filters.namedresourcetype.Waiting for Controller": "Esperando revisor",
+
+  "search.filters.namedresourcetype.Workflow": "En revisión",
+
+  "search.filters.namedresourcetype.Workspace": "Espacio de trabajo",
+
+  "search.sidebar.settings.rpp": "Resultados por página",
+    
+  "sorting.dc.date.issued.ASC": "Fecha de publicación ascendente",
+
+  "sorting.dc.date.issued.DESC": "Fecha de publicación descendente",
+
+  "sorting.dcterms.issued.ASC": "Fecha de publicación ascendente",
+
+  "sorting.dcterms.issued.DESC": "Fecha de publicación descendente",
+
+  "submission.import-external.back-to-my-dspace": "Volver a envíos",
+
+  "submission.sections.describe.relationship-lookup.search-tab.loading": "Cargando...",
+
+  "submission.sections.general.deposit_error_notice": "Hubo un problema al enviar el ítem. Vuelve a intentarlo más tarde.",
+
+  "submission.sections.general.discard_error_notice": "Hubo un problema al descartar el ítem. Vuelve a intentarlo más tarde.",
+
+  "submission.workflow.generic.view": "Vista previa",
+
+  "submission.workspace.generic.view": "Vista previa",
+
+  "submission.workspace.generic.view-help": "Seleccione esta opción para ver el estado actual de los metadatos del recurso",
+
+  "submission.sections.general.cannot_deposit": "No se pudo completar el envío debido a errores en el formulario.<br>Por favor complete todos los campos obligatorios para poder finalizar el envío.",
+
+  "submission.sections.submit.progressbar.describe.step1": "Describir",
+
+  "submission.sections.submit.progressbar.describe.step2": "Describir",
+
+  "submission.sections.submit.progressbar.describe.step3": "Licencia CC",
+
+  "submission.workflow.tasks.claimed.return": "Volver a la cola de tareas",
+
+  "submission.workflow.tasks.claimed.return_help": "Devolver a la cola de tareas",
+
+  "submission.workflow.tasks.pool.claim": "Asumir tarea",
+
+  "submission.workflow.generic.delete-help": "Si desea descartar este ítem, seleccione \"Eliminar\". Luego se le pedirá que lo confirme.",
+
+  "submission.workflow.generic.edit-help": "Seleccione esta opción para cambiar los metadatos del ítem.",
+
+  "submission.workflow.generic.view-help": "Seleccione esta opción para ver los metadatos del ítem.",
+
+  "submission.workflow.tasks.claimed.approve_help": "Si ha revisado el ítem y es adecuado para su inclusión en la colección, seleccione \"Aprobar \".",
+
+  "submission.workflow.tasks.claimed.edit_help": "Seleccione esta opción para cambiar los metadatos del ítem.",
+
+  "virtual-metadata.delete-relationship.modal-head": "Seleccione los ítems para los que desea guardar los metadatos virtuales como metadatos reales",
+
+  "workflow.search.results.head": "Envíos en la cola de tareas",
+
+  "workflow-item.edit.breadcrumbs": "Editar ítem de flujo de trabajo",
+
+  "workflow-item.edit.title": "Editar ítem de flujo de trabajo",
+
+  "workflow-item.delete.notification.success.content": "Este ítem de flujo de trabajo se eliminó correctamente",
+
+  "workflow-item.delete.notification.error.content": "No se pudo eliminar el ítem del flujo de trabajo",
+
+  "workflow-item.delete.title": "Eliminar ítem de flujo de trabajo",
+
+  "workflow-item.delete.header": "Eliminar ítem de flujo de trabajo",
+
+  "workflow-item.send-back.notification.success.content": "Este ítem de flujo de trabajo se envió correctamente al remitente.",
+
+  "workflow-item.send-back.notification.error.content": "El ítem del flujo de trabajo no se pudo devolver al remitente.",
+
+  "workflow-item.send-back.title": "Enviar el ítem del flujo de trabajo al remitente",
+
+  "workflow-item.send-back.header": "Enviar el ítem del flujo de trabajo al remitente",
+
+  "workflowAdmin.search.results.head": "Administrar flujo de trabajo",
+
+  "workspace.search.results.head": "Sus envíos archivados",
 }
